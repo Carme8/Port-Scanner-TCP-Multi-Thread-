@@ -38,7 +38,7 @@ Per impostazione predefinita, PScan esegue la scansione solo di alcune porte com
 Il repo include anche un file "iana_tcp_ports,json" contenente un numero maggiore di porte e il relativo servizio comune. 
 Per utilizzare questo file, basta aggiornare il valore di PORTS_DATA_FILE nella classe PScan.
 
-⚠️⚠️__________________________________________________________⚠️⚠️
+⚠️⚠️_________________________________________________________________________________⚠️⚠️
 
 • Utilizzo Responsabile: Questo Port Scanner TCP MultiThread è solo a scopo didattico.
 
